@@ -1,0 +1,1 @@
+import React from 'react';\nimport './Avatar.css';\n\nconst Avatar = () => {\n  return (\n    <div className='avatar'>\n      <img src='path_to_avatar_image.png' alt='Avatar' />\n      <div className='speech-bubble'>\n        <p>Speaking...</p>\n      </div>\n    </div>\n  );\n};\n\nexport default Avatar;
