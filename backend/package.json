@@ -1,0 +1,1 @@
+{\n  "name": "multilingual-edu-tutor",\n  "version": "1.0.0",\n  "description": "A multilingual educational tutor framework",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "author": "shaikrehana1025-sra",\n  "license": "ISC"\n}
